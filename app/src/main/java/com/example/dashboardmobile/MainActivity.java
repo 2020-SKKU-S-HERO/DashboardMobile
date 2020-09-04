@@ -36,8 +36,8 @@ import okhttp3.Response;
 
 public class MainActivity extends AppCompatActivity {
     
-    private static final String URL_STR = "http://192.168.0.20:3000";
-    private static final String TOKEN_URL_STR = "http://192.168.0.20:3000/alert/token";
+    private static final String URL_STR = "http://34.64.238.233:3520";
+    private static final String TOKEN_URL_STR = "http://34.64.238.233:3520/alert/token";
     
     private static final String CHANNEL_ID = "123";
     
